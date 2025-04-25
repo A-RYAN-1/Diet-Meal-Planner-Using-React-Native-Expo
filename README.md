@@ -99,10 +99,6 @@ Cloning and Usage
         
     *   Tap "View Graph" to visualize your progress in a chart.
         
-5.  **Add Custom Meals**:
-    
-    *   Use the "Add Meal" button to include your own meals in the plan.
-        
 
 Contribution
 ------------
@@ -115,11 +111,11 @@ We welcome contributions to improve the Calorie Calculator App! To contribute:
     
 3.  git checkout -b feature/
     
-4.  **Make Changes**:Implement your changes and test them locally.
+4.  **Make Changes**: Implement your changes and test them locally.
     
 5.  git commit -m "Add "git push origin feature/
     
-6.  **Create a Pull Request**:Open a pull request on GitHub, describing your changes and their purpose. Ensure your code follows the project's style guidelines.
+6.  **Create a Pull Request**: Open a pull request on GitHub, describing your changes and their purpose. Ensure your code follows the project's style guidelines.
     
 
 ### Project Demo
